@@ -1,1 +1,1 @@
-# Simple-web-page-in-Html-and-CSS
+# Simple page using Html CSS
